@@ -1,6 +1,7 @@
 # 📥 Archive Download Links
-Generated on: Tue May 12 21:47:36 UTC 2026
+Generated on: Wed May 13 11:50:21 UTC 2026
 
+- [Download face.zip](https://github.com/mmd1191/downloader00/raw/web/web/face.zip)
 - [Download ge.zip](https://github.com/mmd1191/downloader00/raw/web/web/ge.zip)
 - [Download gwe.zip](https://github.com/mmd1191/downloader00/raw/web/web/gwe.zip)
 - [Download imp.z01](https://github.com/mmd1191/downloader00/raw/web/web/imp.z01)
