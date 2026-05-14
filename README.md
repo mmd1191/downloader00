@@ -1,6 +1,7 @@
 # 📥 Archive Download Links
-Generated on: Wed May 13 19:38:36 UTC 2026
+Generated on: Thu May 14 13:07:49 UTC 2026
 
+- [Download amd.zip](https://github.com/mmd1191/downloader00/raw/web/web/amd.zip)
 - [Download build.zip](https://github.com/mmd1191/downloader00/raw/web/web/build.zip)
 - [Download face.zip](https://github.com/mmd1191/downloader00/raw/web/web/face.zip)
 - [Download ge.zip](https://github.com/mmd1191/downloader00/raw/web/web/ge.zip)
